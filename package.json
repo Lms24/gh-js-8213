@@ -1,0 +1,16 @@
+{
+  "name": "gh-8213-express-query-params",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sentry/node": "^7.53.1",
+    "express": "^4.18.2"
+  },
+  "type": "module"
+}
